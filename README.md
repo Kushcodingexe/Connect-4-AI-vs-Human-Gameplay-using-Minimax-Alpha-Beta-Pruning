@@ -8,7 +8,7 @@
 
 Steps to run the Game.
 ```
-git clone https://github.com/tejasayya/connect4game.git
+git clone https://github.com/tejasayya/connect4game.git](https://github.com/Kushcodingexe/Connect-4-AI-vs-Human-Gameplay-using-Minimax-Alpha-Beta-Pruning.git
 ```
 
 ```
